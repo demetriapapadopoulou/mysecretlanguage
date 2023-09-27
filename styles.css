@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Custom Alphabet Translator</title>
+    <link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+    <h1>Custom Alphabet Translator</h1>
+    <input type="text" id="englishInput" placeholder="Enter English text">
+    <button onclick="translateText()">Translate</button>
+    <div id="translationResult"></div>
+    <script src="script.js"></script>
+</body>
+</html>
